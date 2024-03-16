@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/trudoviebudni/trudoviebudni/blob/main/assets/header.jpg)
 
 About me
 
