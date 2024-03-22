@@ -74,6 +74,7 @@
 
 ## Портфолио:
 
-![Test-cases](https://img.shields.io/badge/Test--cases-51EE0E?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Ftrudoviebudni%2Ftest-cases)
+<img alt="Static Badge" src="https://img.shields.io/badge/Test--cases-51EE0E?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Ftrudoviebudni%2Ftest-cases">
+
 
 
