@@ -74,7 +74,9 @@
 
 ## Портфолио:
 <div>
-  <a href="https://github.com/trudoviebudni/test-cases"><img alt="Static Badge" src="https://img.shields.io/badge/Test--cases-51EE0E?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Ftrudoviebudni%2Ftest-cases"></a>
+  <a href="https://github.com/trudoviebudni/check-lists"><img alt="Static Badge" src="https://img.shields.io/badge/Check--lists-A9EE09?style=for-the-badge"></a>
+  <a href="https://github.com/trudoviebudni/test-cases"><img alt="Static Badge" src="https://img.shields.io/badge/Test--cases-EEC717?style=for-the-badge"></a>
+  <a href="https://github.com/trudoviebudni/bug-reports"><img alt="Static Badge" src="https://img.shields.io/badge/Bug--reports-EE8F00?style=for-the-badge"></a>
 </div>
 
 
