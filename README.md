@@ -1,9 +1,8 @@
 ![Header](https://github.com/trudoviebudni/trudoviebudni/blob/main/assets/header.jpg)
 
-## Я начинающий тестировщик.
+## Я начинающий тестировщик
 
-
-### 📊📋 Тестовая документация:
+### 📊📋 Тестовая документация
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -11,7 +10,7 @@
 
 ---
 
-### 🌐🛠️ Тестирование веб-приложений:
+### 🌐🛠️ Тестирование веб-приложений
 
 <div>
     <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -21,7 +20,8 @@
 
 ---
 
-### 🌐📱 Анализ и мониторинг сетевого трафика и тестирование мобильных приложений:
+### 🌐📱 Анализ и мониторинг сетевого трафика и тестирование мобильных приложений
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
@@ -30,7 +30,7 @@
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Работа с данными
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -38,9 +38,11 @@
   <img src="https://icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" title="postgreSQL" alt="postgreSQL" width="40" height="40"/>&nbsp
 </div>
 
+
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Работа с кодом
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
@@ -51,9 +53,10 @@
 ---
 ---
 
-## Знаком или знаю на базовом уровне:
+## Знаком или знаю на базовом уровне
 
-### 💻✏️ Языки программирования:
+### 💻✏️ Языки программирования
+
 <div>
     <img src="https://icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" title="python" alt="python" width="45" height="45"/>&nbsp
     <img src="https://icon-icons.com/icons2/2415/PNG/512/java_plain_wordmark_logo_icon_146457.png" title="java" alt="java" width="55" height="50"/>&nbsp
@@ -61,22 +64,23 @@
 </div>
 
 ---
----
 
-## Хочу освоить в будущем:
+### Автотестирование
+
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="45" height="45"/>&nbsp
-    <img src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" title="selenium" alt="selenium" width="35" height="40"/>&nbsp    
+    <img src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" title="selenium" alt="selenium" width="35" height="40"/>&nbsp
 </div>
 
 ---
 ---
 
-## Портфолио:
+## Портфолио
+
 <div>
   <a href="https://github.com/trudoviebudni/check-lists"><img alt="Static Badge" src="https://img.shields.io/badge/Check--lists-A9EE09?style=for-the-badge"></a>
   <a href="https://github.com/trudoviebudni/test-cases"><img alt="Static Badge" src="https://img.shields.io/badge/Test--cases-EEC717?style=for-the-badge"></a>
   <a href="https://github.com/trudoviebudni/bug-reports"><img alt="Static Badge" src="https://img.shields.io/badge/Bug--reports-EE8F00?style=for-the-badge"></a>
+  <a href="https://github.com/trudoviebudni/auto-test-project/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Auto--tests-EE6521?style=for-the-badge"></a>
 </div>
-
 
