@@ -1,6 +1,16 @@
 ![Header](https://github.com/trudoviebudni/trudoviebudni/blob/main/assets/header.jpg)
 
-## Я начинающий тестировщик
+# :man_technologist: Обо мне:
+Я внимательный к деталям начинающий тестировщик с сильным интересом к коду, тестированию программного обеспечения и обеспечению качества.
+
+- :telescope: Дополнительно увлекаюсь языками программирования и написанием автотестов.
+
+- :zap: Почти каждый день я оттачиваю свои навыки в области тестирования и написания тестовых артефактов
+
+- :mailbox: Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Trudoviebudn1)
+
+---
+---
 
 ### 📊📋 Тестовая документация
 
@@ -82,6 +92,13 @@
     <img src="https://cdn-icons-png.flaticon.com/512/183/183319.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+
+---
+---
+
+## Планирую изучать
+
+ <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=256" title="pytest" alt="javascript" width="45" height="45"/>&nbsp;
 
 ---
 ---
