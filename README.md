@@ -91,7 +91,7 @@
 <div>
   <a href="https://github.com/trudoviebudni/check-lists"><img alt="Static Badge" src="https://img.shields.io/badge/Check--lists-A9EE09?style=for-the-badge"></a>&nbsp;
   <a href="https://github.com/trudoviebudni/test-cases"><img alt="Static Badge" src="https://img.shields.io/badge/Test--cases-EEC717?style=for-the-badge"></a>&nbsp;
-  <a href="https://github.com/trudoviebudni/auto-test-project/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/API-EEA838?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/trudoviebudni/api/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/API-EEA838?style=for-the-badge"></a>&nbsp;
   <a href="https://github.com/trudoviebudni/bug-reports"><img alt="Static Badge" src="https://img.shields.io/badge/Bug--reports-EE8F00?style=for-the-badge"></a>&nbsp;
   <a href="https://github.com/trudoviebudni/auto-test-project/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Auto--tests-EE6521?style=for-the-badge"></a>&nbsp;
 </div>
