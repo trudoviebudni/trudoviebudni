@@ -98,7 +98,7 @@
 
 ## Планирую изучать
 
- <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=256" title="pytest" alt="javascript" width="45" height="45"/>&nbsp;
+ <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=256" title="javascript" alt="javascript" width="45" height="45"/>&nbsp;
 
 ---
 ---
