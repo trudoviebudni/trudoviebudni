@@ -1,14 +1,43 @@
 ![Header](https://github.com/trudoviebudni/trudoviebudni/blob/main/assets/header.jpg)
 
 # :man_technologist: Обо мне:
-Начинающий специалист по качеству, внимательный к деталям и интересующийся тестированием и разработкой ПО.
+Начинающий специалист по качеству, внимательный к деталям и интересующийся тестированием и разработкой ПО.  
 
-- :telescope: Дополнительно увлекаюсь языками программирования и написанием автотестов.
+:telescope: Дополнительно увлекаюсь языками программирования и написанием автотестов.  
+:zap: Почти каждый день оттачиваю свои навыки в области тестирования и написания тестовых артефактов  
 
-- :zap: Почти каждый день оттачиваю свои навыки в области тестирования и написания тестовых артефактов
+---
+
+Soft skills:
+-  Способность критически мыслить и находить проблемы в приложениях
+-  Умение анализировать требования и спецификации
+-  Навыки логического и структурированного мышления
+-  Способность выявлять и расставлять приоритеты рисков
+-  Навыки приоритизации и управления временем
+-  Умение четко формулировать и документировать найденные баги
+-  Стремление к непрерывному профессиональному развитию
+-  Способность работать в команде и координировать свои действия
+-  Гибкость и адаптивность к изменениям
+
+
+
+
 
 ---
 :mailbox: Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Trudoviebudn1)
+
+---
+---
+
+## Портфолио
+
+<div>
+  <a href="https://github.com/trudoviebudni/check-lists"><img alt="Static Badge" src="https://img.shields.io/badge/Check--lists-A9EE09?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/trudoviebudni/test-cases"><img alt="Static Badge" src="https://img.shields.io/badge/Test--cases-EEC717?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/trudoviebudni/api/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/API-EEA838?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/trudoviebudni/bug-reports"><img alt="Static Badge" src="https://img.shields.io/badge/Bug--reports-EE8F00?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/trudoviebudni/auto-test-project/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Auto--tests-EE6521?style=for-the-badge"></a>&nbsp;
+</div>
 
 ---
 ---
@@ -101,16 +130,5 @@
 
  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=256" title="javascript" alt="javascript" width="45" height="45"/>&nbsp;
 
----
----
 
-## Портфолио
-
-<div>
-  <a href="https://github.com/trudoviebudni/check-lists"><img alt="Static Badge" src="https://img.shields.io/badge/Check--lists-A9EE09?style=for-the-badge"></a>&nbsp;
-  <a href="https://github.com/trudoviebudni/test-cases"><img alt="Static Badge" src="https://img.shields.io/badge/Test--cases-EEC717?style=for-the-badge"></a>&nbsp;
-  <a href="https://github.com/trudoviebudni/api/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/API-EEA838?style=for-the-badge"></a>&nbsp;
-  <a href="https://github.com/trudoviebudni/bug-reports"><img alt="Static Badge" src="https://img.shields.io/badge/Bug--reports-EE8F00?style=for-the-badge"></a>&nbsp;
-  <a href="https://github.com/trudoviebudni/auto-test-project/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Auto--tests-EE6521?style=for-the-badge"></a>&nbsp;
-</div>
 
