@@ -7,7 +7,8 @@
 
 - :zap: Почти каждый день оттачиваю свои навыки в области тестирования и написания тестовых артефактов
 
-- :mailbox: Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Trudoviebudn1)
+---
+:mailbox: Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Trudoviebudn1)
 
 ---
 ---
